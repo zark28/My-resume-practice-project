@@ -211,10 +211,11 @@ h4{
 .my-work{
     display:inline-block;
     width: 100vw;
-    height:100vh;
+    height:auto;
 }
 
 .my-work h4{margin: 4vh 0 2vh 0;}
+
 
 .ui-ux-designs img, .real-projects img {
     height: 40vh;
@@ -226,7 +227,7 @@ h4{
 
 .ui-ux-designs, .real-projects{
     width: 80vw;
-    margin: 0 0 4vh 10vw;
+    margin: 10vh 0 4vh 10vw;
 }
 
 .ui-ux-designs img, .real-projects img{background: rgba(54, 53, 53, 0.198);}
@@ -235,7 +236,8 @@ h4{
     margin: 0 0 0 6vw;
 }
 
-.ui-ux-imgs:first-child{
-    padding-top: 2vh;
+.my-work hr{
+display:inline-block;
 }
+
 
