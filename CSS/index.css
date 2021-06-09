@@ -37,7 +37,7 @@ a{text-decoration: none;}
 /***Header styling***/
 
 header{
-    background-image:linear-gradient(to right , rgb(15, 14, 14) 50%, rgb(244, 244, 244) 50%), url(/CSS/images/background-business-computer-connection-303383.jpg);
+    background-image:linear-gradient(to right , rgb(15, 14, 14) 50%, rgb(244, 244, 244) 50%), url(./CSS/images/background-business-computer-connection-303383.jpg);
     background-size: cover;
     background-position: center;
     background-blend-mode: saturation;
